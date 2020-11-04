@@ -11,8 +11,6 @@
 //   - spawning tetrominoes,
 //   - handling user input,
 //   - moving and placing tetrominoes 
-//
-//  [expected .cpp size: ~ 275 lines]
 
 #ifndef TETRISGAME_H
 #define TETRISGAME_H

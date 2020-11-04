@@ -3,8 +3,6 @@
 //  - The concept of the tetromino's location on the gameboard/grid. (gridLoc)
 //  - The ability to change a tetromino's location
 //  - The ability to retrieve a vector of tetromino block locations mapped to the gridLoc.
-//
-//  [expected .cpp size: ~ 40 lines]
 
 #ifndef GRIDTETROMINO_H
 #define GRIDTETROMINO_H
